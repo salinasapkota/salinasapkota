@@ -28,7 +28,7 @@ Here are some of my key projects (pinned on my profile):
   Full database schema + queries for a bookstore system, including stored procedures and triggers.  
 
 - **[SmartFinance Dashboard](https://github.com/salinasapkota/SmartFinance_Dashboard)** *(Work in Progress)*  
-  Personal finance dashboard with React, FastAPI, and predictive analytics.  
+  Personal finance dashboard with React, Node/Express, and predictive analytics.  
 
 ---
 
